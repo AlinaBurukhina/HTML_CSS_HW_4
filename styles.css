@@ -454,7 +454,6 @@ body {
 }
 .footer {
     max-width: 1600px;
-    /* height: 482px; */
     background-color: #F9F9FB;
     margin: 0 auto;
     display: flex;
